@@ -1,4 +1,5 @@
 // https://www.npmjs.com/package/serialport
+// http://www.electrodragon.com/w/File:Sscom32E.zip
 
 var SerialPort = require('serialport');
 var port = new SerialPort('COM4', {
